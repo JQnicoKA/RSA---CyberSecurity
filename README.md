@@ -10,5 +10,7 @@ The algorithms used are :
 - extended euclid algorithm
 - chinese remainder theorem
 
-You can launch it simply by tapping python 
+You can launch it simply by entering the command line : 
+python RS40_Programme.py in your terminal.
+
 Enjoy !
