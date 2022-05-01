@@ -14,3 +14,5 @@ You can launch it simply by entering the command line in your terminal :
 - python RS40_Programme.py
 
 Enjoy !
+
+LECAS Nicolas
