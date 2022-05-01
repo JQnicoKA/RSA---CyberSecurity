@@ -9,3 +9,6 @@ The algorithms used are :
 - modular exponentiation
 - extended euclid algorithm
 - chinese remainder theorem
+
+You can launch it simply by tapping python 
+Enjoy !
